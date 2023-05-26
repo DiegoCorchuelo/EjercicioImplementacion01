@@ -2,6 +2,8 @@
 
    Aplicación que permite consultar información sobre series de televisión.
 
+   ![Diagrama](./resources/Diagrama.png)
+
 ## Glosario de términos
 
 ### Entidades:
